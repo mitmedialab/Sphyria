@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Stuff/gaze.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Scripts/UI/GvrReticle.cs" Line="151" Column="21" />
+      <File FileName="Assets/Stuff/gaze.cs" Line="207" Column="8" />
+      <File FileName="Assets/zoomIn.cs" Line="21" Column="84" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
